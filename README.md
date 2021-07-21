@@ -1,6 +1,5 @@
-
-I will present my casestudy through a demo, 
-about the architect please refer to the png file bikewise_case_study.png
+# I will present my casestudy through a demo, 
+#### about the architect please refer to the png file bikewise_case_study.png
 
 The architect here is to specifically sloved these problems in the case study here I make a checklist to review the tasks:
   1. new data has to ingested on a daily basis -> **(checked)**
